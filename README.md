@@ -1,4 +1,6 @@
 Dum Kit Project Overview
+
+
 The Dum Kit project is an engaging and interactive web application designed to enhance your skills in DOM manipulation using JavaScript. This project revolves around creating a virtual drum kit that responds to user interactions, such as mouse clicks and keyboard presses, to play corresponding drum sounds. Here's a detailed description of the project:
 
 Key Features
